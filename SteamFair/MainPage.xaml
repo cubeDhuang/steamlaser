@@ -1,14 +1,26 @@
-﻿<Page x:Name="Start"
+﻿<Page
+    x:Name="Start"
     x:Class="SteamFair.MainPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:SteamFair"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d" Tapped="Start_Next">
+    mc:Ignorable="d" Tapped="Start_Next" FontFamily="Calibri">
 
-   <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-      <Button Content="Get Started!" HorizontalAlignment="Left" Margin="498,516,0,0" VerticalAlignment="Top" Height="116" Width="269" Background="Red" FontSize="48"/>
+    <Grid
+        Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+        Padding="20">
+        <Button x:Name="Calibrate"
+            Content="Calibrate (Required on Start)"
+            HorizontalAlignment="Center"
+            Margin="0,0,0,0"
+            VerticalAlignment="Top"
+            Background="#FF0984E3"
+            FontSize="36"
+            BorderThickness="5"
+            Padding="20,10"
+            FontFamily="Calibri"/>
 
    </Grid>
 </Page>

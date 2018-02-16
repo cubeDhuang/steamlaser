@@ -15610,14 +15610,14 @@
     "UAP,Version=v10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Adarsh\\.nuget\\packages\\": {}
+    "C:\\Users\\Daniel\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adarsh\\Desktop\\New folder (2)\\SteamFair\\SteamFair.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel\\OneDrive\\Programming\\projects\\steamlaser\\SteamFair\\SteamFair.csproj",
       "projectName": "SteamFair",
-      "projectPath": "C:\\Users\\Adarsh\\Desktop\\New folder (2)\\SteamFair\\SteamFair.csproj",
-      "projectJsonPath": "C:\\Users\\Adarsh\\Desktop\\New folder (2)\\SteamFair\\project.json",
+      "projectPath": "C:\\Users\\Daniel\\OneDrive\\Programming\\projects\\steamlaser\\SteamFair\\SteamFair.csproj",
+      "projectJsonPath": "C:\\Users\\Daniel\\OneDrive\\Programming\\projects\\steamlaser\\SteamFair\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {
